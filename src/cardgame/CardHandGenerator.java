@@ -3,7 +3,7 @@ package cardgame;
 /**
  * This class models a simple card guessing game
  * 
- * @author Navjeet Kaur
+ * @author Navjeet Kaur 29 Jan 2022
  */
 import cardgame.Card.Suit;
 import cardgame.Card.Value;
