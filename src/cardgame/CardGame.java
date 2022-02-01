@@ -67,7 +67,7 @@ public class CardGame {
     }
     
     public static void printInfo(){
-        System.out.println("End of Game!");
+        System.out.println("My name is Navjeet Kaur");
     
     }
     
